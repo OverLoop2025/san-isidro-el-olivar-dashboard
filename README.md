@@ -1,6 +1,6 @@
 # Dashboard San Isidro · El Olivar
 
 - Archivo principal: `index.html`
-- Datos visibles: lista completa de resultados y enlaces de fuente
+- Incluye tabla completa y enlaces de fuente por resultado
 
-Sitio publicado con GitHub Pages.
+Publicado automáticamente con `scripts/publish_github_pages.py`.
