@@ -1,2 +1,6 @@
-# san-isidro-el-olivar-dashboard
-Dashboard de casas en venta en San Isidro (Lima), priorizando El Olivar
+# Dashboard San Isidro · El Olivar
+
+- Archivo principal: `index.html`
+- Datos visibles: lista completa de resultados y enlaces de fuente
+
+Sitio publicado con GitHub Pages.
